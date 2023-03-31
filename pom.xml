@@ -7,6 +7,11 @@
     <groupId>com.fetch</groupId>
     <artifactId>flinkutils</artifactId>
     <version>1.0-SNAPSHOT</version>
+<scm>
+    <developerConnection>
+        scm:git:git@github.com:daniel-packard/flinkutils.git
+    </developerConnection>
+</scm>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
