@@ -4,12 +4,12 @@
 
     <groupId>com.fetch</groupId>
     <artifactId>flinkutils</artifactId>
-    <version>1.3-SNAPSHOT</version>
+    <version>1.3</version>
 <scm>
     <developerConnection>
         scm:git:git@github.com:daniel-packard/flinkutils.git
     </developerConnection>
-  <tag>HEAD</tag>
+  <tag>flinkutils-1.3</tag>
   </scm>
 
     <properties>
